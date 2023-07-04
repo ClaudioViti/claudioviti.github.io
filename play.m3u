@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:1,file_example_MP3_700KB.mp3
-https://claudioviti.github.io/m3u/file_example_MP3_700KB.mp3
-#EXTINF:2,file_example_MP3_1MG.mp3
-https://claudioviti.github.io/m3u/file_example_MP3_1MG.mp3
-#EXTINF:3,file_example_MP3_2MG.mp3
-https://claudioviti.github.io/m3u/file_example_MP3_2MG.mp3
+#EXTINF:1,1.mp4
+https://claudioviti.github.io/1.mp4
+#EXTINF:2,2.mp4
+https://claudioviti.github.io/2.mp4
+#EXTINF:3,3.m4a
+https://claudioviti.github.io/3.m4a
