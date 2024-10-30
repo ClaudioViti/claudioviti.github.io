@@ -32,7 +32,7 @@ header
 Cover
 -----------------------------*/
 .cover{height:70%;
-	background-image: url("https://source.unsplash.com/category/buildings");
+	background-image: url("1190969.jpg");
 	background-size: cover;
 	-o-background-size: cover;
 	-moz-background-size: cover;
@@ -63,7 +63,7 @@ Banner
 -----------------------------*/
 .banner{background: #fff; height:50%;margin-top:40px}
 .banner__image{width:30%; float:left;height:100%;
-	background-image: url("https://source.unsplash.com/category/nature/400x400");
+	background-image: url("1190969.jpg");
 	background-size: cover;
 	-o-background-size: cover;
 	-moz-background-size: cover;
